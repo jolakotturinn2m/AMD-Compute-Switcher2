@@ -1,5 +1,5 @@
 # AMD-Compute-Switcher2
-Improved AMD-Compute-Switcher. Helps to quickly set up optimized settings for a comfortable installation of AMD multi-GPU systems.
+Improved AMD-Compute-Switcher (from BitcoinTalk). Helps to quickly set up optimized settings for a comfortable installation of AMD multi-GPU systems.
 
 Features:
 
