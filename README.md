@@ -8,4 +8,6 @@ Features:
 - Sets Timeout detection and recovery (TDR) optimized settings
 - Sets GPU_MAX_HEAP_SIZE and GPU_MAX_ALLOC_PERCENT environment variables
 
-Usage: click on button and reboot rig. Enjoy! ;)
+Usage: install AMD driver, run app, click on button and reboot rig. Enjoy! ;)
+
+Supported OS: Windows 7/8/10/11 (x64)
