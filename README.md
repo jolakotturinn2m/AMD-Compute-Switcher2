@@ -3,7 +3,7 @@ Improved AMD-Compute-Switcher (from BitcoinTalk). Helps to quickly set up optimi
 
 Features:
 
-- Disables Croffire mode
+- Disables Crossfire mode
 - Enables Compute mode
 - Sets Timeout detection and recovery (TDR) optimized settings
 - Sets GPU_MAX_HEAP_SIZE and GPU_MAX_ALLOC_PERCENT environment variables
